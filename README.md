@@ -1,6 +1,4 @@
 ---
-menu: home
-layout: vt17
 title:  'R Programming Foundations for Life Scientists'
 ---
 
